@@ -12,4 +12,4 @@ My YouTube Channel for more videos on each topic with examples:
 
 
 
-Just To check if Pipeline is triggering automatically
+Just To check if Pipeline is triggering automatically or not
