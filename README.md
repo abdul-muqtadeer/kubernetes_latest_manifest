@@ -12,4 +12,4 @@ My YouTube Channel for more videos on each topic with examples:
 
 
 
-Just To check if Pipeline is triggering if any changes are done to source code
+Just To check if Pipeline is triggering automatically
